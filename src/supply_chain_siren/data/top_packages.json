@@ -1,0 +1,47 @@
+{
+  "pypi": [
+    "requests",
+    "numpy",
+    "pandas",
+    "flask",
+    "django",
+    "fastapi",
+    "pydantic",
+    "sqlalchemy",
+    "pytest",
+    "scipy",
+    "matplotlib",
+    "beautifulsoup4",
+    "torch",
+    "tensorflow",
+    "scrapy",
+    "uvicorn",
+    "celery",
+    "jinja2",
+    "boto3",
+    "seaborn"
+  ],
+  "npm": [
+    "react",
+    "lodash",
+    "express",
+    "axios",
+    "vue",
+    "angular",
+    "moment",
+    "jquery",
+    "typescript",
+    "eslint",
+    "webpack",
+    "next",
+    "svelte",
+    "jest",
+    "gulp",
+    "rxjs",
+    "chart.js",
+    "three",
+    "prettier",
+    "babel"
+  ]
+}
+
