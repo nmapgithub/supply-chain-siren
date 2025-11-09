@@ -3,6 +3,8 @@
 **Supply Chain Siren** is a focused dependency risk spotlight for Python and JavaScript projects.  
 Point it at a repository and it will inspect your manifests, pull live metadata from the package registries, and highlight issues that deserve a closer security review before you merge that pull request.
 
+> **GitHub description**: Spotlight risky dependencies in Python and JavaScript projects with live registry intelligence and clear security signals.
+
 <p align="center">
   <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style Black"/>
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT"/>
